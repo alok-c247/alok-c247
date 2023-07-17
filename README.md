@@ -1,10 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-<p align="center">
-<!--   <img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/alok-c247/alokp247/main/image.jpg?usp=drive_link?v=4&h=300&w=300&fit=cover&mask=circle" />
-  <br /> -->
-  <b>Passionate Full Stack Engineer | Tech Explorer</b>
-</p>
+<h3 align="center">Passionate Full Stack Engineer | Tech Explorer</h3>
 
 ## About Me 🚀
 
