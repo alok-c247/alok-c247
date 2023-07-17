@@ -32,10 +32,10 @@ Here are some of the technologies and tools I'm proficient in:
 
 - Frontend: HTML5, CSS3, JavaScript, React, Redux, Nextjs
 - Backend: Node.js, Express.js, Laravel
-- Databases: MongoDB, PostgreSQL, ElasticSearch, MySQL, CouchDb, Firebase Realtime Database, Firestore
+- Databases: MongoDB, PostgreSQL, MySQL, BigQuery, CouchDb, Firebase Realtime Database, Firestore
 - Cloud: AWS, Firebase, GCPVersion Control: Git, GitHub, BitBucket, GitLab, SVN
 - DevOps: Docker, Jenkins, Nginx, Apache2, OpenSSL, GitHub Actions, Shell Script, Terraform
-- Others: RESTful APIs, GraphQL, Socket, Microservices, Multi-tenancy, Redis, Jinja, React native
+- Others: RESTful APIs, GraphQL, Socket, Microservices, Redis, Jinja, React native
 
 ## Experience 👨‍💻
 - **Lead MERN Stack Developer** at [Chapter247 Infotech] (2022-Present)
