@@ -27,7 +27,7 @@ Smsreflex is a SAAS application created for sms platform. Users can use this pla
 Here are some of the technologies and tools I'm proficient in:
 
 - Frontend: HTML5, CSS3, JavaScript, React, Redux, Nextjs
-- Backend: Node.js, Express.js, Laravel
+- Backend: Node.js, Express.js, Laravel, FastAPI
 - Databases: MongoDB, PostgreSQL, MySQL, BigQuery, CouchDb, Firebase Realtime Database, Firestore
 - Cloud: AWS, Firebase, GCPVersion Control: Git, GitHub, BitBucket, GitLab, SVN
 - DevOps: Docker, Jenkins, Nginx, Apache2, OpenSSL, GitHub Actions, Shell Script, Terraform
