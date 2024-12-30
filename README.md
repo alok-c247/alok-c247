@@ -6,7 +6,7 @@
 
 Hello there! I'm Alok Paidalwar, a passionate Software Engineer with a keen interest in building innovative and user-friendly applications. My journey in the tech world started with curiosity, and it has led me to explore various programming languages, frameworks, and tools. I believe in the power of code to solve real-world problems and enhance lives.
 
-- 🔭 I’m currently working on exciting projects using Next.js,Reactjs and Node.js.
+- 🔭 I’m currently working on exciting projects using Next.js,Reactjs, Node.js and FastAPI.
 - 🌱 I’m constantly learning and expanding my skillset to keep up with the latest trends in the tech industry.
 - 💬 Ask me about web development, data structures, or anything related to tech!
 
